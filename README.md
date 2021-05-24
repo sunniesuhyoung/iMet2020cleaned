@@ -20,7 +20,7 @@ The iMet Collection is a dataset for fine-grained art attribute recognition, int
 
 ## Our proposed changes
 
-In ``labels_cleaning.ipynb``, we demonstrate our proposed changes and clean/structure the iMet 2020 (training) labels. For compatibility, we don't change the size of the label space (3,474 attributes) and only make modifications that involve adding attribute label(s) to certain samples.
+In ``label_cleaning.ipynb``, we demonstrate our proposed changes and clean/structure the iMet 2020 (training) labels. For compatibility, we don't change the size of the label space (3,474 attributes) and only make modifications that involve adding attribute label(s) to certain samples.
 
 ## Citation
 
