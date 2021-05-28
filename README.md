@@ -26,8 +26,8 @@ In ``label_cleaning.ipynb``, we demonstrate our proposed changes and clean/struc
 
 ```
 @misc{nguyen2021imet,
-author = {Vivien Nguyen and Sunnie S. Y. Kim},
-title = {Cleaning and Structuring the Label Space of the iMet Collection 2020},
-booktitle = {CVPR 2021 The Eight Workshop on Fine-Grained Visual Categorization},
+  author = {Vivien Nguyen and Sunnie S. Y. Kim},
+  title = {Cleaning and Structuring the Label Space of the iMet Collection 2020},
+  booktitle = {CVPR 2021 The Eight Workshop on Fine-Grained Visual Categorization},
 }
 ```
