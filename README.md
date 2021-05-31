@@ -26,13 +26,6 @@ In ``label_cleaning.ipynb``, we demonstrate our proposed changes and clean/struc
 
 These changes, edgelists, etc. are by no means complete; any number of hierarchical relationships could be created depending on the use case/application. 
 
-### Edgelists
-`country` - 
-`culture` -
-`medium` - 
-`tags-animals` - 
-`tags-birds` - 
-`tags-wars` - 
 
 ## Citation
 
