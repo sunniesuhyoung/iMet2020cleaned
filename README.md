@@ -22,6 +22,18 @@ The iMet Collection is a dataset for fine-grained art attribute recognition, int
 
 In ``label_cleaning.ipynb``, we demonstrate our proposed changes and clean/structure the iMet 2020 (training) labels. For compatibility, we don't change the size of the label space (3,474 attributes) and only make modifications that involve adding attribute label(s) to certain samples.
 
+`/edgelists` contains a series of text files listing various attribute pair relationships. ``graph_pm.ipynb`` demonstrates how to create [NetworkX](https://networkx.org/) graphs from the existing iMet attributes, load edgelists, and use the resulting graph to compute graph-based performance measures (e.g. the proposed metric in our workshop paper). Again, for compatibility, no labels (i.e. nodes) are added or removed, only relationships (i.e. edges). `train_example.csv` contains a sample CSV for the format expected by `graph_pm.ipynb`.
+
+These changes, edgelists, etc. are by no means complete; any number of hierarchical relationships could be created depending on the use case/application. 
+
+### Edgelists
+`country` - 
+`culture` -
+`medium` - 
+`tags-animals` - 
+`tags-birds` - 
+`tags-wars` - 
+
 ## Citation
 
 ```
