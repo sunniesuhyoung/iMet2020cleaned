@@ -1,6 +1,8 @@
 # Cleaning and Structuring the Label Space of the iMet Collection 2020 (CVPR 2021 FGVC)
 
-This repo provides the code and cleaned labels for our CVPR 2021 workshop paper.
+### [Full paper (9 pages)](https://arxiv.org/abs/2106.00815) | [Extended abstract (4 pages)](https://drive.google.com/file/d/1pE1vyvym6WC-M5_unL9X7EwKlP5NKPC6/view?usp=sharing)
+
+This repo provides the code and cleaned labels for our CVPR 2021 FGVC workshop paper.
 
 ___
 
